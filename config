@@ -1,0 +1,14 @@
+db_host=localhost
+db_database=access_control
+db_user=citofon
+db_pass=citofon123
+idGateway=148
+idBuilding=41
+apiKey=$2y$10$h2W/2V8oUtDcHjhpOlAKl.yf9xiZB8NwKXJeSTVSw8X2S/5d1uiOS
+urlServiceConfig=https://webservices.handsriver.com/api/v1/access_control_residentslists
+urlServiceResidents=https://webservices.truv.cl/api/v1/access_control_residentslists
+urlServiceResidentsTemps=https://webservices.truv.cl/api/v1/access_control_residentstemslists
+urlServiceWhiteList=https://webservices.truv.cl/api/v1/access_control_whitelistslists
+urlServiceConfig=https://webservices.truv.cl/api/v1/access_control_config
+urlServiceConfig=https://webservices.truv.cl/api/v1/access_control_gates
+urlServiceConfig=https://webservices.truv.cl/api/v1/access_control_log_access
